@@ -1,0 +1,4 @@
+﻿  OS05_02.cpp
+D:\Laboratory\OS\Lab5\OS05_02\OS05_02\OS05_02.cpp(25,18): warning C4129: : неизвестная escape-последовательность
+D:\Laboratory\OS\Lab5\OS05_02\OS05_02\OS05_02.cpp(25,18): warning C4129: O: неизвестная escape-последовательность
+  OS05_02.vcxproj -> D:\Laboratory\OS\Lab5\OS05_02\Debug\OS05_02.exe

@@ -1,0 +1,17 @@
+STRING
+Alisevich Daniil
+Sachishin Ivan
+Kolachinskiy Artem
+STRING
+Valko Sergey
+STRING
+Cherepenko Alexandr
+Kavrus Alexandr
+Krukova Mary
+Belko Nikita
+Sigeykin Lesha
+Osmolovsky Demyan
+Dydy Vasy
+Boy next door
+
+STRING
